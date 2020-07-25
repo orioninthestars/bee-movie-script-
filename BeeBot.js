@@ -22,4 +22,4 @@ bot.on("ready", function(){
 	console.log("BeeBot is running!");
 })
 
-bot.loginWithToken("INSERT BOT TOKEN HERE");
+bot.loginWithToken(736623475522797578);
